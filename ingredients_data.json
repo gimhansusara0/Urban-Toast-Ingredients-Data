@@ -1,4 +1,17 @@
 {
-  "1": ["Espresso", "Milk Foam", "Sugar"],
-  "2": ["Chocolate Syrup", "Milk", "Whipped Cream"]
+  "1": {
+    "name": "Cappuccino",
+    "ingredients": ["Espresso", "Steamed Milk", "Foam"],
+    "calories": 150
+  },
+  "2": {
+    "name": "Iced Latte",
+    "ingredients": ["Espresso", "Cold Milk", "Ice Cubes"],
+    "calories": 120
+  },
+  "3": {
+    "name": "Mocha",
+    "ingredients": ["Espresso", "Chocolate Syrup", "Steamed Milk", "Whipped Cream"],
+    "calories": 200
+  }
 }
